@@ -13,22 +13,22 @@ const CONFIG = {
             text: "Do you want me ml?",                                  
             yesBtn: "Yes!",                                            
             noBtn: "No",                                            
-            secretAnswer: "I don't only want you, I love you! ❤️"          
+            secretAnswer: "I want you so much ❤️"          
         },
         second: {
-            text: "How much do you love me?",                         
+            text: "How much do you want me?",                         
             startText: "This much!",                                  
             nextBtn: "Next ❤️"                       
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹",
+            text: "Will you be my Valentine? 🌹",
             yesBtn: "Yes!",                                          
             noBtn: "No"                                          
         }
     },
 
     loveMessages: {
-        extreme: "DAAAAMN You love me that much?? 🚀💝", 
+        extreme: "DAAAAMN You want me that much?? 🚀💝", 
         high: "LESSGO! 🚀💝",     
         normal: "LESSGO! 🥰" 
     },
