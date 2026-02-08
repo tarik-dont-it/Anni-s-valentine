@@ -10,7 +10,7 @@ const CONFIG = {
 
     questions: {
         first: {
-            text: "Do you want me ml?",                                  
+            text: "Do you want me?",                                  
             yesBtn: "Yes!",                                            
             noBtn: "No",                                            
             secretAnswer: "I want you so much ❤️"          
@@ -34,7 +34,7 @@ const CONFIG = {
     },
 
     celebration: {
-        title: "Yay! M happy for that! 🎉💝💖💝💓",
+        title: "LESSGO 🎉💝💖💝💓",
         message: "Now you ll get something u always like, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  
     },
